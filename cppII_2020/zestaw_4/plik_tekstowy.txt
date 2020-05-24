@@ -1,0 +1,5 @@
+this file is created in order to practice read-write operations on the files with c++
+what's more
+doing these things we have to use oop principles in c++
+that's it
+let's get started...
